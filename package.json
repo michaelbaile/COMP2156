@@ -15,13 +15,13 @@
     "type": "git",
     "url": "git+https://github.com/michaelbaile/COMP2156.git"
   },
+  "homepage": "https://michaelbaile.github.io/COMP2156",
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/michaelbaile/COMP2156/issues"
   },
-  
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -48,5 +48,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
